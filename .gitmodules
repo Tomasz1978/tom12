@@ -1,0 +1,3 @@
+[submodule "nowy_modul"]
+	path = nowy_modul
+	url = https://github.com/bolowielki/myFirstRepository.git
